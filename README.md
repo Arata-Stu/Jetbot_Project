@@ -5,7 +5,7 @@
 - [学習](#セクション2)
 
 ## データ集め
-ここには２つのデータ集めファイルがあります。//
+ここには２つのデータ集めファイルがあります。  
 -イメージデータだけを集めたいとき
 [DataCollection.ipynb](https://github.com/Arata-Stu/Jetbot_Project/blob/main/DataCollection.ipynb)  
 -イメージデータと位置情報を集めたいとき
